@@ -1,0 +1,11 @@
+Model Information:
+* title:	Old Street Hotel Building At Night
+* source:	https://sketchfab.com/3d-models/old-street-hotel-building-at-night-5412e51497ba4c328a56544d77e71eb9
+* author:	wand3rer (https://sketchfab.com/wand3rer)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "Old Street Hotel Building At Night" (https://sketchfab.com/3d-models/old-street-hotel-building-at-night-5412e51497ba4c328a56544d77e71eb9) by wand3rer (https://sketchfab.com/wand3rer) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
